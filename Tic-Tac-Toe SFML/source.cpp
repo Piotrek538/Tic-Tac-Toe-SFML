@@ -116,7 +116,7 @@ int main()
         {
             window.draw(fan);
         }
-        sf::sleep(sf::seconds(1));
+        
         window.display();
         if (win == 2)
         {
